@@ -11,7 +11,7 @@ educational reference or a starting point for new game mechanics.
 - `pygame` (install via `pip install pygame`)
 
 ## Running the game
-
+Compile: python3 -m compileall snake_game.py
 ```bash
 python snake_game.py
 ```
